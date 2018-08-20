@@ -1,7 +1,0 @@
-C:\Users\WuHaoze\Documents\GitHub\FileCapture-Client\Microsoft Office 2003\bin\Debug\Microsoft Office 2003.exe.config
-C:\Users\WuHaoze\Documents\GitHub\FileCapture-Client\Microsoft Office 2003\bin\Debug\Microsoft Office 2003.exe
-C:\Users\WuHaoze\Documents\GitHub\FileCapture-Client\Microsoft Office 2003\bin\Debug\Microsoft Office 2003.pdb
-C:\Users\WuHaoze\Documents\GitHub\FileCapture-Client\Microsoft Office 2003\obj\Debug\Microsoft Office 2003.csprojAssemblyReference.cache
-C:\Users\WuHaoze\Documents\GitHub\FileCapture-Client\Microsoft Office 2003\obj\Debug\Microsoft Office 2003.csproj.CoreCompileInputs.cache
-C:\Users\WuHaoze\Documents\GitHub\FileCapture-Client\Microsoft Office 2003\obj\Debug\Microsoft Office 2003.exe
-C:\Users\WuHaoze\Documents\GitHub\FileCapture-Client\Microsoft Office 2003\obj\Debug\Microsoft Office 2003.pdb
